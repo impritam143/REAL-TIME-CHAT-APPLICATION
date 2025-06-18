@@ -24,4 +24,5 @@ This project is a practical example of how modern web technologies can be used t
 In summary, the real-time chat application demonstrates the use of frontend technologies combined with real-time communication protocols to create a fully functioning, interactive chat interface. It enhances the user experience by delivering instant updates, and serves as a strong foundation for building more advanced messaging platforms with features like emojis, file sharing, user authentication, and chat rooms.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/c482f549-cfb7-4483-977c-8d9d5f6c4ef0)
 
